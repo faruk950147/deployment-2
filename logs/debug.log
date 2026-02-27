@@ -1,0 +1,40 @@
+[INFO] 2026-02-22 22:04:07,257 project - Home page request started
+[INFO] 2026-02-22 22:04:19,188 project - Sign-in validation success: account exists for admin
+[INFO] 2026-02-22 22:04:19,188 project - Sign-in validation success: account exists for admin
+[INFO] 2026-02-22 22:04:32,010 project - User signed in: admin (1)
+[INFO] 2026-02-22 22:04:32,065 project - Home page request started
+[INFO] 2026-02-22 22:04:49,622 project - User signed out: admin (1)
+[INFO] 2026-02-22 22:04:52,271 project - Sign-in validation success: account exists for admin
+[INFO] 2026-02-22 22:04:52,272 project - Sign-in validation success: account exists for admin
+[INFO] 2026-02-22 22:04:59,746 project - User signed in: admin (1)
+[INFO] 2026-02-22 22:04:59,818 project - Home page request started
+[INFO] 2026-02-22 22:05:29,151 project - AddToCart requested by admin: product_id=12, variant_id=, quantity=1
+[INFO] 2026-02-22 22:05:37,369 project - AddToCart requested by admin: product_id=12, variant_id=, quantity=1
+[INFO] 2026-02-22 22:05:40,086 project - CartDetail requested by user=admin
+[INFO] 2026-02-22 22:05:44,385 project - QuantityIncDec requested: cart_id=74, action=dec, user=admin
+[INFO] 2026-02-22 22:06:00,587 project - QuantityIncDec requested: cart_id=74, action=inc, user=admin
+[INFO] 2026-02-22 22:06:08,753 project - QuantityIncDec requested: cart_id=74, action=dec, user=admin
+[INFO] 2026-02-22 22:06:12,208 project - QuantityIncDec requested: cart_id=74, action=inc, user=admin
+[INFO] 2026-02-22 22:06:38,467 project - Home page request started
+[INFO] 2026-02-22 22:07:16,522 project - AddToCart requested by admin: product_id=20, variant_id=, quantity=1
+[INFO] 2026-02-22 22:07:21,136 project - CartDetail requested by user=admin
+[INFO] 2026-02-22 22:07:26,000 project - QuantityIncDec requested: cart_id=75, action=inc, user=admin
+[INFO] 2026-02-22 22:07:46,456 project - AddToCart requested by admin: product_id=18, variant_id=, quantity=1
+[INFO] 2026-02-22 22:07:50,694 project - CartDetail requested by user=admin
+[INFO] 2026-02-22 22:07:58,816 project - QuantityIncDec requested: cart_id=76, action=inc, user=admin
+[INFO] 2026-02-22 22:08:00,561 project - QuantityIncDec requested: cart_id=76, action=dec, user=admin
+[INFO] 2026-02-22 22:08:04,849 project - Cart Remove requested: cart_id=76, user=admin
+[INFO] 2026-02-22 22:08:26,436 project - Home page request started
+[INFO] 2026-02-22 22:08:42,492 project - Home page request started
+[INFO] 2026-02-23 06:16:13,045 project - Home page request started
+[INFO] 2026-02-23 06:16:34,415 project - Home page request started
+[INFO] 2026-02-23 09:54:39,262 project - Home page request started
+[INFO] 2026-02-23 11:00:58,913 project - Home page request started
+[INFO] 2026-02-23 11:01:44,541 project - Home page request started
+[INFO] 2026-02-23 11:01:50,862 project - Home page request started
+[INFO] 2026-02-25 09:14:19,430 project - Home page request started
+[INFO] 2026-02-25 09:14:30,568 project - Home page request started
+[INFO] 2026-02-25 09:14:34,258 project - Home page request started
+[INFO] 2026-02-25 09:15:14,659 project - Home page request started
+[INFO] 2026-02-25 09:16:27,542 project - Home page request started
+[INFO] 2026-02-25 09:16:47,466 project - Home page request started
