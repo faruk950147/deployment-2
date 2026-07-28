@@ -58,3 +58,6 @@
 [INFO] 2026-07-28 15:15:54,804 project - Sign-in validation success: account exists for admin
 [INFO] 2026-07-28 15:16:01,536 project - User signed in: admin (1)
 [INFO] 2026-07-28 15:16:01,593 project - Home page request started
+[INFO] 2026-07-28 15:18:54,547 project - Home page request started
+[INFO] 2026-07-28 15:18:59,280 project - CartDetail requested by user=admin
+[INFO] 2026-07-28 15:19:01,996 project - Home page request started
